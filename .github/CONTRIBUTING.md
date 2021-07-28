@@ -6,8 +6,7 @@ Want to contribute a cheat sheet of your own?
 
 We’d like to help you make and share high quality cheatsheets on R topics. The template below provides a useful starting place. It contains tips for designing a three or four column cheatsheet, as well as reusable elements to build your sheet with.
 
-IMAGE OF TEMPLATE?
-<img src="https://github.com/rstudio/cheatsheets/blob/master/pngs/0-template.png" width="630" height="252"/>
+<img src="https://github.com/rstudio/cheatsheets/blob/master/pngs/0-template.png" width="630"/>
 
 [Download Template for Keynote](https://github.com/rstudio/cheatsheets/raw/master/keynotes/0-template.key)
 
