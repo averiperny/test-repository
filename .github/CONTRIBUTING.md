@@ -22,7 +22,7 @@ We ask you include:
 * A .png image of the first page of your cheat sheet (for the website thumbnail)
 * The original keynote or powerpoint file if possible (for translators)
 
-Cheat sheet pull requests tend be handled in bursts, so don't worry if your sits for a little bit!
+Cheat sheet pull requests and issues tend be handled in bursts, and we may wait for several to accumulate before sorting through them so don't worry if your submission sits for a while!
 
 
 ## Translate a Cheat Sheet
@@ -33,7 +33,7 @@ We ask that you include:
 * A PDF file of your cheat sheet named FOMRAT?
 * Your translated keynote or powerpoint file
 
-Cheat sheet pull requests tend be handled in bursts, so don't worry if your sits for a little bit!
+Cheat sheet pull requests and issues tend be handled in bursts, and we may wait for several to accumulate before sorting through them so don't worry if your submission sits for a while!
 
 
 
