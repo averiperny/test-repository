@@ -9,6 +9,8 @@ We’d like to help you make and share high quality cheatsheets on R topics. The
 IMAGE OF TEMPLATE?
 ![small image of the first page of the cheat sheet template](https://github.com/rstudio/cheatsheets/blob/master/pngs/0-template.png)
 
+<img src="https://github.com/rstudio/cheatsheets/blob/master/pngs/0-template.png" style="width:150px"/>
+
 [Download Template for Keynote](https://github.com/rstudio/cheatsheets/raw/master/keynotes/0-template.key)
 
 [Download Template for Powerpoint](https://github.com/rstudio/cheatsheets/raw/master/powerpoints/0-template.pptx)
