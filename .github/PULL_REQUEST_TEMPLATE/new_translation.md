@@ -1,9 +1,9 @@
 Thank you for translating a cheat sheet! 🎉
 
-Please fill out the following information:
-Cheat Sheet Name: 
-Language: 
-Your Name (as you want to be credited on the website): 
+Please fill out the following information:  
+Cheat Sheet Name:  
+Language:  
+Your Name (as you want to be credited on the website):  
 
 
 Make sure you include the following:
