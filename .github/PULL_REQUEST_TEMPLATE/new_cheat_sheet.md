@@ -11,7 +11,7 @@ Date created/update (Mon-YYYY format):
 
 
 Please include the following files:
-- Is the file name descriptive? Something like <package-name>.pdf or <task-name>.pdf
+- Is the file name descriptive? Something like package-name.pdf or task-name.pdf
 - [ ] PDF file
 - [ ] .png image file of the first page (for the website thumbnail)
 - [ ] Keynote or Powerpoint file (for translators)
