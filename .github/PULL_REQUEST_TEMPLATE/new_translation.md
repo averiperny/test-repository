@@ -1,4 +1,4 @@
-## Thank you for translating a cheat sheet! 🎉
+## Thank you for translating a cheat sheet!  🎉
 
 #### Please fill out the following information:  
 
