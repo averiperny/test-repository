@@ -11,3 +11,6 @@ Your Name (as you want to be credited on the website):
 - [ ] name your cheatsheet some variation of cheat-sheet-name-language or cheat-sheet-name-language-abbreviation
 - [ ] add a pdf file of your translated cheat sheet to the translation folders
 - [ ] add a keynote or powerpoint file for your translated cheat sheet to the translation folder
+
+
+Cheat sheets are usually added in bursts so don't worry if your pull request sits for a little bit!
