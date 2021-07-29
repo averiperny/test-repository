@@ -4,10 +4,10 @@ Please include the following information:
 
 Cheat Sheet Name:  
 1 sentence description:  
-Your Name (as you want to be credited on the website):
-A link to your github/website (optional): 
+Your Name (as you want to be credited on the website):  
+A link to your github/website (optional):  
 A link to relevent package documentaion (optional):  
-Date created/update (Mon-YYYY format): 
+Date created/update (Mon-YYYY format):  
 
 
 Please include the following files:
