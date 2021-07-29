@@ -16,6 +16,6 @@ Or fill in:
 - [ ] Is the file name descriptive? Something like package-name.pdf or task-name.pdf
 - [ ] PDF file
 - [ ] .png image file of the first page (for the website thumbnail)
-- [ ] Keynote or Powerpoint file (for translators)
+- [ ] Keynote or Powerpoint file (helps translators who want to translate your cheat sheet)
  
 Cheat sheets are usually added in bursts so don't worry if your pull request sits for a little bit!
