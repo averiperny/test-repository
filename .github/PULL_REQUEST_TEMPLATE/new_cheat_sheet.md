@@ -1,6 +1,6 @@
-Thank you for submitting a new cheat sheet! 🎉
+## Thank you for submitting a new cheat sheet! 🎉
 
-Please include the following information:  
+#### Please include the following information:  
 
 Cheat Sheet Name:  
 1 sentence description:  
@@ -12,7 +12,7 @@ Date created/update (Mon-YYYY format):
 Or fill in:
 "one sentence/12 words or less description of package/cheat sheet materials" by "name". Updated "Month YYYY".
 
-Please include the following files:
+#### Please include the following files:
 - [ ] Is the file name descriptive? Something like package-name.pdf or task-name.pdf
 - [ ] PDF file
 - [ ] .png image file of the first page (for the website thumbnail)
