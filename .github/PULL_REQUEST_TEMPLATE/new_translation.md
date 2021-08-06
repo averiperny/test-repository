@@ -5,7 +5,7 @@
 Cheat Sheet Name:  
 Language:  
 Your Name (as you want to be credited on the website):  
-Date created/update (Mon-YYYY format):
+Date created/updated (Mon-YYYY format):
 
 <!-- Please keep the below portion in your issue, and check `[x]` the applicable boxes. -->
 #### Check that you have done the following:
