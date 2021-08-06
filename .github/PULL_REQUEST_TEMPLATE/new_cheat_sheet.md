@@ -11,7 +11,7 @@ Date created/update (Mon-YYYY format):
 
 <!-- Please keep the below portion in your issue, and check `[x]` the applicable boxes. -->
 
-#### Please be sure you've included the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/)
+#### Please be sure you've included the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/):
 - [ ] Add CC-BY-SA Your Name to copywrite under the Creative Commons on the cheat sheet
 
 #### Please include the following files in the appropriate folders:
