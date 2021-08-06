@@ -14,10 +14,10 @@ Date created/update (Mon-YYYY format):
 #### Please be sure you've included the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/):
 - [ ] Add CC-BY-SA Your Name to copywrite under the Creative Commons on the cheat sheet
 
-#### Please include the following files in the appropriate folders:
-- [ ] Is the file name descriptive? Something like package-name.pdf or task-name.pdf
-- [ ] PDF file of entire cheat sheet
-- [ ] PNG file of the first page 1100 x 850 (for the website thumbnail)
-- [ ] Keynote or PowerPoint or similar file (helps translators who want to translate your cheat sheet)
+#### Check that you have done the following:
+- [ ] Used descriptive file names, something like package-name.pdf or task-name.pdf.
+- [ ] Included a PDF file of entire cheat sheet.
+- [ ] Included a PNG file of the first page 1100 x 850 (for the website thumbnail).
+- [ ] Included a Keynote or PowerPoint or similar file (helps translators who want to translate your cheat sheet).
  
 Cheat sheets are usually added in bursts so don't worry if your pull request sits for a little bit!
