@@ -7,7 +7,7 @@ Cheat Sheet Name:
 Your Name (as you want to be credited on the website):  
 A link to your github/website (optional):  
 A link to relevent package documentaion (optional):  
-Date created/update (Mon-YYYY format):  
+Date created/updated (Mon-YYYY format):  
 
 <!-- Please keep the below portion in your issue, and check `[x]` the applicable boxes. -->
 
