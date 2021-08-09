@@ -1,7 +1,12 @@
-## Thank you for submitting a new cheat sheet! 🎉
+<!-- Thank you for contributing a cheat sheet! 🎉   
+Cheat sheets are usually added in bursts so don't worry if your pull request sits for a little bit! 
+Please fill out whichever section is relevent below and feel free to delete the irrelevent option. -->
 
-#### Please fill out the fields below:  
 
+<!-- NEW OR UPDATED CONTRIBUTED CHEAT SHEETS -->
+<!-- Please fill out the fields below: -->
+
+## New or Updated Contributed Cheat Sheet
 Cheat Sheet Name:  
 1 sentence description of the contents:  
 Your Name (as you want to be credited on the website):  
@@ -17,7 +22,22 @@ Date created/updated (Mon-YYYY format):
 #### Check that you have done the following:
 - [ ] Used descriptive file names, something like package-name.pdf or task-name.pdf.
 - [ ] Included a PDF file of entire cheat sheet.
-- [ ] Included a PNG file of the first page 1100 x 850 (for the website thumbnail).
-- [ ] Included a Keynote or PowerPoint or similar file (helps translators who want to translate your cheat sheet).
+- [ ] Included a PNG file of the first page 1100 x 850 in the pngs folder (for the website thumbnail).
+- [ ] Included a Keynote or PowerPoint or similar file in the relevent folder (helps translators who want to translate your cheat sheet).
  
-Cheat sheets are usually added in bursts so don't worry if your pull request sits for a little bit!
+ 
+<!-- NEW OR UPDATED TRANSLATIONS -->
+<!-- Please fill out the fields below: -->
+## Translated Cheat Sheet Information
+Cheat Sheet Name:  
+Language:  
+Your Name (as you want to be credited on the website):  
+Date created/updated (Mon-YYYY format):
+
+<!-- Please keep the below portion in your issue, and check `[x]` the applicable boxes. -->
+#### Check that you have done the following:
+- [ ] Added the [language abbreviation](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) to the file name (ex. data-transformation-es.pdf).
+- [ ] Included a PDF file of your translated cheat sheet to the translation folders.
+- [ ] Included a Keynote or PowerPoint file for your translated cheat sheet to the translation folder.
+- [ ] Not duplicated an existing translation. If an existing translation exists, I have edited it.
+
