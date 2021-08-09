@@ -1,10 +1,10 @@
-name : General Question
+name : General Issue
 description : I have a general question about cheat sheets.
 title: "General: <brief description of issue/question>"
 body:
 - type: markdown
   attributes:
-    value: "If you're looking to submit a new cheat sheet or a translation, read the [contributing guidelines](https://github.com/rstudio/cheatsheets/blob/master/.github/CONTRIBUTING.md) and submit a pull request."
+    value: "Please fill out the issue title above. If you're looking to submit a new cheat sheet or a translation, read the [contributing guidelines](https://github.com/rstudio/cheatsheets/blob/master/.github/CONTRIBUTING.md) and submit a pull request."
 - type: textarea
   attributes:
     label: "Ask a question:"
