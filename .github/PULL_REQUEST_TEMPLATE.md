@@ -12,7 +12,7 @@ Cheat Sheet Name:
 Your Name (as you want to be credited on the website):  
 A link to your github/website (optional):  
 A link to relevent package documentaion (optional):  
-Date created/updated (Mon-YYYY format):  
+Date created/updated (Month YYYY format):  
 
 <!-- Please keep the below portion in your pull reuqest, and check `[x]` the applicable boxes. -->
 
@@ -32,7 +32,7 @@ Date created/updated (Mon-YYYY format):
 Cheat Sheet Name:  
 Language:  
 Your Name (as you want to be credited on the website):  
-Date created/updated (Mon-YYYY format):
+Date created/updated (Month YYYY format):
 
 <!-- Please keep the below portion in your issue, and check `[x]` the applicable boxes. -->
 #### Check that you have done the following:
