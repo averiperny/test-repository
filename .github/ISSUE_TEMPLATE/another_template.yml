@@ -8,7 +8,7 @@ body:
 - type: textarea
   attributes:
     label: "Ask a question:"
-    value: |
+    placeholder: |
       FAQ
       Q1. I would like to translate a cheat sheet but do not see the original Keynote/Powerpoint/etc file.
       A1. All cheat sheets created by RStudio should include either a Keynote or PowerPoint file, usually both. 
