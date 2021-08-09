@@ -9,4 +9,4 @@ body:
       Please make sure you have the name of the cheat sheet in the title of your issue (Or General Question if it's not about a specific cheat sheet).
 - type: textarea
   attributes:
-     label: "Type your question"
+     label: ""
