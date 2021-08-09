@@ -4,5 +4,6 @@ description: I have a general question about cheat sheets.
 
 body:
 - type: markdown
-  value: |
-    Please make sure you have the name of the cheat sheet in the title of your issue (Or General Question if it's not about a specific cheat sheet).
+  attributes:
+    value: |
+      Please make sure you have the name of the cheat sheet in the title of your issue (Or General Question if it's not about a specific cheat sheet).
