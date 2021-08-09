@@ -1,6 +1,6 @@
 ---
 name : Website Issue
-description : I have a question/issue about the cheat sheet webpage.
+about : I have a question/issue about the cheat sheet webpage.
 title : "Website: <brief description of issue/question>"
 ---
 
