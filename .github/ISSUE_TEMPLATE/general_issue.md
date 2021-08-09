@@ -1,6 +1,6 @@
 ---
 name : General Issue
-description : I have a general question/issue.
+about : I have a general question/issue.
 title : "General: <brief description of issue/question>"
 ---
 
