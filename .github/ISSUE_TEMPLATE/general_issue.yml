@@ -1,6 +1,6 @@
 name : General Question
 description : I have a general question about cheat sheets.
-title: "<cheat sheet name>: <brief description of issue/question>"
+title: "General: <brief description of issue/question>"
 body:
 - type: markdown
   attributes:
