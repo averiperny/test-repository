@@ -11,7 +11,6 @@ body:
 - type: textarea
   attributes:
   value: |
-    "<!-- 
     Hello! 
     
     In the title of this issue please include one of the following
@@ -27,7 +26,6 @@ body:
     Q1. I would like to translate a cheat sheet but do not see the original Keynote/Powerpoint/etc file.
     A1. All cheat sheets created by RStudio should include either a Keynote or PowerPoint file, usually both. 
     Some of the user submitted cheat sheets however may not. In that case [TODO]
-    --> "
 - type: markdown
   attributes:
     value: "Cheat sheet development happens in bursts so your issue may sit for a while. Thank you for taking the time to ask questions/provide feedback/etc"
