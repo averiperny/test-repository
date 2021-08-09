@@ -13,3 +13,6 @@ Q1. I would like to translate a cheat sheet but do not see the original Keynote/
 A1. All cheat sheets created by RStudio should include either a Keynote or PowerPoint file, usually both. 
       Some of the user submitted cheat sheets however may not. In that case [TODO]
 -->
+<!-- put any text below this line -->
+
+
