@@ -7,7 +7,7 @@ body:
     value: "Please fill out the issue title above.  If you're looking to submit a new cheat sheet or a translation, read the [contributing guidelines](https://github.com/rstudio/cheatsheets/blob/master/.github/CONTRIBUTING.md) and submit a pull request."
 - type: textarea
   attributes:
-    label: " "
+    label: "\n"
     placeholder: |
       FAQ
       Q1. I would like to translate a cheat sheet but do not see the original Keynote/Powerpoint/etc file.
