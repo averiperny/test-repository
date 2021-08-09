@@ -1,12 +1,24 @@
-# Test
-name: General Question
-description: I have a general question about cheat sheets.
+---
+name : General Question
+description : I have a general question about cheat sheets.
+---
 
-body:
-- type: markdown
-  attributes:
-    value: |
-      Please make sure you have the name of the cheat sheet in the title of your issue (Or General Question if it's not about a specific cheat sheet).
-- type: textarea
-  attributes:
-     label: ""
+<!-- 
+Hello! 
+
+In the title of this issue please include one of the following
+a. the cheat sheet name, and language if it's a translation
+b. the phrase "general question", if not about a specific cheat sheet
+c. the phrase "website"
+and then a brief description of your issue
+Ex. Data Transformation - c_across missing
+Ex. Website - last updated dates inaccurate
+
+If you're looking to contribute a cheat sheet you made, an updated to a cheat sheet you previously submitted, 
+or a new/updated translation, please read the contributing guidelines and submit a pull request.
+
+Some common questions
+Q1. I would like to translate a cheat sheet but do not see the original Keynote/Powerpoint/etc file.
+A1. All cheat sheets created by RStudio should include either a Keynote or PowerPoint file, usually both. 
+Some of the user submitted cheat sheets however may not. In that case [TODO]
+-->
