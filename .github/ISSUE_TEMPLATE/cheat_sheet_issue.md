@@ -1,6 +1,6 @@
 ---
 name : Cheat Sheet Issue
-description : I have a question/issue about a specific cheat sheet.
+about : I have a question/issue about a specific cheat sheet.
 title : "<cheat sheet name>: <brief description of issue/question>"
 ---
 
